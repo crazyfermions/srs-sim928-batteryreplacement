@@ -6,7 +6,7 @@ This is a guide on how to replace the batteries inside a [Stanford Research Syst
 
 ## Notes
 
-This guide was initially written some time ago (2014) and has not been maintained at all, so some information might be outdated. I used this method several times in the lab with no downsides whatsoever - however of course I cannot guarantee that you have unwanted side effects; using the method described here is on your own risk. Especially if you use a different battery model, manufacturer, etc. you might want to monitor the device first on a dummy application. If you find any outdated information or other issues, please make a pull request on github(https://github.com/crazyfermions/srs-sim928-batteryreplacement). There are also some parts not understood about the hardware - if you find new information, please share and improve the guide.
+This guide was initially written some time ago (2014) and has not been maintained at all, so some information might be outdated. I used this method several times in the lab with no downsides whatsoever - however of course I cannot guarantee that you have unwanted side effects; using the method described here is on your own risk. Especially if you use a different battery model, manufacturer, etc. you might want to monitor the device first on a dummy application. If you find any outdated information or other issues, please make a pull request on [github](https://github.com/crazyfermions/srs-sim928-batteryreplacement). There are also some parts not understood about the hardware - if you find new information, please share and improve the guide.
 
 ## Contents
 
