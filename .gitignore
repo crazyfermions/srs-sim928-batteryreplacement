@@ -1,0 +1,8 @@
+# Make targets
+doc.md
+doc.html
+
+# Vim temp files
+*~
+*.swp
+*.swo
